@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>539670823</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\light.c</file>
+      <file>$PROJ_DIR$\light.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Moter.c</file>
+      <file>$PROJ_DIR$\Moter.h</file>
+      <file>$PROJ_DIR$\tem.c</file>
+      <file>$PROJ_DIR$\uart.c</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$PROJ_DIR$\tem.h</file>
+      <file>$PROJ_DIR$\uart1.c</file>
+      <file>$PROJ_DIR$\uart1.h</file>
+      <file>$PROJ_DIR$\yanwu.c</file>
+      <file>$PROJ_DIR$\yanwu.h</file>
+      <file>$PROJ_DIR$\all.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\yanwu.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tem.r51</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nlxd-1e16x01.r51</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart1.pbi</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_CC2530F256.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\TRX.d51</file>
+      <file>$PROJ_DIR$\Debug\Obj\tem.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart1.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\light.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Moter.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\TRX.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\yanwu.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\light.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\Moter.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\light.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 15 13 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 13 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Moter.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\tem.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart1.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 15 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\yanwu.c</name>
+      <outputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC8051</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 15 22 32 21 18 4 1 7 8 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\TRX.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 20 29 34 35 16 30 27 33 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\TRX.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 36 28 26 24 25 19 14</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>TRX/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>120</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>29</ColumnWidth0><ColumnWidth1>1298</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17057-13240</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>TRX</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-3164-5656</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-7367-13994</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>3192</SelStart><SelEnd>3192</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\all.h</Filename><XPos>0</XPos><YPos>2</YPos><SelStart>44</SelStart><SelEnd>44</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\tem.c</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>779</SelStart><SelEnd>779</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\tem.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>239</SelStart><SelEnd>239</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Moter.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1488</SelStart><SelEnd>1488</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\light.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>64</SelStart><SelEnd>64</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart.c</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>871</SelStart><SelEnd>871</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart1.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>55</SelStart><SelEnd>55</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\uart1.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>131</SelStart><SelEnd>131</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\yanwu.c</Filename><XPos>0</XPos><YPos>47</YPos><SelStart>1639</SelStart><SelEnd>1639</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\yanwu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>101</SelStart><SelEnd>101</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Moter.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>73</SelStart><SelEnd>73</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\light.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1605</SelStart><SelEnd>1605</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02e736e8><key>iaridepm.enu1</key></Toolbar-02e736e8></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>538</Bottom><Right>194</Right><x>-2</x><y>-2</y><xscreen>94</xscreen><yscreen>191</yscreen><sizeHorzCX>68814</sizeHorzCX><sizeHorzCY>274820</sizeHorzCY><sizeVertCX>143485</sizeVertCX><sizeVertCY>776978</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>112</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>114</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>164029</sizeHorzCY><sizeVertCX>68814</sizeVertCX><sizeVertCY>274820</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
